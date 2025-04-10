@@ -1,13 +1,13 @@
-@extends('layouts.app')
+@extends('layouts.app1')
 
 @section('content')
 <div class="container-home">
     <div class="container-title">
-        <h1>BLUE</h1>
-        <h2></h2>
+        <h1>OLYMPUS</h1>
+        <h2>AIRLINE</h2>
 
         <div class="container-button">
-            <p>"Tu viaje, nuestro horizonte"</p>
+            <p>"Más rápido que Hermes, más alto que Urano."</p>
             <button>COMENZAR</button>
         </div>
     </div>

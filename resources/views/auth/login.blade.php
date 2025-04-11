@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="principal-container">
-    <div class="login-container"> 
+    <div class="login-container">
         <div class="user-icon">
             <img src="{{ asset('img/user.png') }}" alt="User">
         </div>
@@ -43,9 +43,11 @@
     </div>
 </div>
 
-<div class="light"></div>
-<div class="light"></div>
-<div class="light"></div>
-<div class="light"></div>
-<div class="light"></div>
+<div class="lights-container">
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+</div>
 @endsection
